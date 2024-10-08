@@ -120,7 +120,7 @@ qiime tools export \
   --input-path taxonomy.qza \
   --output-path exported-taxonomy
 ```
-NEXT THREE STEPS ARE ALL OPTIONAL VISUALISATIONS AND STATISTICS
+THE FOLLOWING FOUR STEPS ARE ALL OPTIONAL VISUALISATIONS AND STATISTICS
 
 Make a phylogenetic tree
 ```
